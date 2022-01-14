@@ -1,1 +1,1 @@
-# Programs for Mathematicl Physics and Mechanics
+# Programs for Mathematical Physics and Mechanics
